@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+    <string name="estimation">Поставьте оценку от 1 до 5</string>
+    <string name="title_change_color">Цветовое качество</string>
+    <string name="title_exit">Выйти из приложения</string>
+    <string name="random_button">Случайное число 0-50</string>
+</resources>
